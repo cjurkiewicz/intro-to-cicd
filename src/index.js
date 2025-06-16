@@ -1,3 +1,4 @@
+//here is a function
 function sayHi(name) {
   return `Hello there ${name}`
 }
