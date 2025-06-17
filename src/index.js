@@ -1,6 +1,6 @@
 //here is a function
 function sayHi(name) {
-  return `Well, hello there ${name}`
+  return `Hello ${name}`
 }
 
 module.exports = sayHi
